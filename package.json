@@ -28,7 +28,7 @@
     "test-fvt": "jest ./test/fvt.test.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "nconf": "^0.12.1"
   },
   "devDependencies": {
