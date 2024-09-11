@@ -37,6 +37,7 @@
     "jest-junit": "^15.0.0"
   },
   "overrides": {
-    "micromatch": "4.0.8"
+    "micromatch": "4.0.8",
+    "send": "0.19.0"
   }
 }
